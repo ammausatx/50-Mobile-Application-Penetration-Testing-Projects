@@ -36,7 +36,6 @@ adb logcat -d | grep -iE 'ssl|cert|trust|pin'
 
 ### Simulated tool view — test execution
 
-![SIMULATED training screenshot: Certificate Pinning Behavior Assessment test execution](../../_assets/screenshots/mobile-test-execution.svg)
 
 *Illustrative mobile assessment workstation showing a Kali terminal and Android analysis workflow. It is a simulation, not a captured tool session.*
 
@@ -52,7 +51,6 @@ Expected training outcome: A pinning behavior assessment separating platform tru
 
 ### Simulated tool view — result review
 
-![SIMULATED training screenshot: Certificate Pinning Behavior Assessment result review](../../_assets/screenshots/mobile-result-review.svg)
 
 *Illustrative result triage screen with fictional package/build values and sample analyst notes. Not actual MobSF/JADX/ADB/Burp output.*
 
@@ -80,3 +78,13 @@ Apply least privilege, server-side authorization, secure platform APIs, appropri
 - [ ] Evidence sanitized and clearly labeled
 - [ ] Findings validated and severity justified
 - [ ] Remediation and retest criteria documented
+
+## Project-specific simulated tool screenshots
+
+> Fictional training illustrations of lab setup, test execution, and result review. They are not genuine tool captures or evidence of a real assessment.
+
+![Project 17 lab setup — simulated training illustration](screenshots/01-lab-setup.svg)
+
+![Project 17 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 17 result review — simulated training illustration](screenshots/03-result-review.svg)

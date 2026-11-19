@@ -36,7 +36,6 @@ adb shell settings put global http_proxy <proxy-ip>:8080
 
 ### Simulated tool view — test execution
 
-![SIMULATED training screenshot: Burp Suite Mobile Traffic Analysis test execution](../../_assets/screenshots/mobile-test-execution.svg)
 
 *Illustrative mobile assessment workstation showing a Kali terminal and Android analysis workflow. It is a simulation, not a captured tool session.*
 
@@ -52,7 +51,6 @@ Expected training outcome: A request/response map with sensitive values redacted
 
 ### Simulated tool view — result review
 
-![SIMULATED training screenshot: Burp Suite Mobile Traffic Analysis result review](../../_assets/screenshots/mobile-result-review.svg)
 
 *Illustrative result triage screen with fictional package/build values and sample analyst notes. Not actual MobSF/JADX/ADB/Burp output.*
 
@@ -80,3 +78,13 @@ Apply least privilege, server-side authorization, secure platform APIs, appropri
 - [ ] Evidence sanitized and clearly labeled
 - [ ] Findings validated and severity justified
 - [ ] Remediation and retest criteria documented
+
+## Project-specific simulated tool screenshots
+
+> Fictional training illustrations of lab setup, test execution, and result review. They are not genuine tool captures or evidence of a real assessment.
+
+![Project 16 lab setup — simulated training illustration](screenshots/01-lab-setup.svg)
+
+![Project 16 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 16 result review — simulated training illustration](screenshots/03-result-review.svg)
