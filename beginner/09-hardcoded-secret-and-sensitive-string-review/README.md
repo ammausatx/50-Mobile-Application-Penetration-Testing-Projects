@@ -35,7 +35,6 @@ grep -RniE 'api[_-]?key|secret|token|password|BEGIN PRIVATE KEY' jadx-output/sou
 
 ### Simulated tool view — test execution
 
-![SIMULATED training screenshot: Hardcoded Secret and Sensitive String Review test execution](../../_assets/screenshots/mobile-test-execution.svg)
 
 *Illustrative mobile assessment workstation showing a Kali terminal and Android analysis workflow. It is a simulation, not a captured tool session.*
 
@@ -51,7 +50,6 @@ Expected training outcome: A triaged candidate list with false positives removed
 
 ### Simulated tool view — result review
 
-![SIMULATED training screenshot: Hardcoded Secret and Sensitive String Review result review](../../_assets/screenshots/mobile-result-review.svg)
 
 *Illustrative result triage screen with fictional package/build values and sample analyst notes. Not actual MobSF/JADX/ADB/Burp output.*
 
@@ -79,3 +77,13 @@ Apply least privilege, server-side authorization, secure platform APIs, appropri
 - [ ] Evidence sanitized and clearly labeled
 - [ ] Findings validated and severity justified
 - [ ] Remediation and retest criteria documented
+
+## Project-specific simulated tool screenshots
+
+> Fictional training illustrations of lab setup, test execution, and result review. They are not genuine tool captures or evidence of a real assessment.
+
+![Project 09 lab setup — simulated training illustration](screenshots/01-lab-setup.svg)
+
+![Project 09 test execution — simulated training illustration](screenshots/02-test-execution.svg)
+
+![Project 09 result review — simulated training illustration](screenshots/03-result-review.svg)
