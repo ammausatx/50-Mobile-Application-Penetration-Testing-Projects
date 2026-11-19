@@ -1,0 +1,17 @@
+# Beginner Mobile Application Security Projects
+
+- [Project 01 — Android Lab Setup and Device Inventory](beginner/01-android-lab-setup-and-device-inventory/README.md)
+- [Project 02 — APK Acquisition and Integrity Verification](beginner/02-apk-acquisition-and-integrity-verification/README.md)
+- [Project 03 — APK Metadata and Package Identification](beginner/03-apk-metadata-and-package-identification/README.md)
+- [Project 04 — Android Manifest Security Review](beginner/04-android-manifest-security-review/README.md)
+- [Project 05 — Dangerous Permission Assessment](beginner/05-dangerous-permission-assessment/README.md)
+- [Project 06 — Application Installation and Runtime Baseline](beginner/06-application-installation-and-runtime-baseline/README.md)
+- [Project 07 — Static Analysis with JADX](beginner/07-static-analysis-with-jadx/README.md)
+- [Project 08 — APK Resource and Configuration Review](beginner/08-apk-resource-and-configuration-review/README.md)
+- [Project 09 — Hardcoded Secret and Sensitive String Review](beginner/09-hardcoded-secret-and-sensitive-string-review/README.md)
+- [Project 10 — Android Exported Component Inventory](beginner/10-android-exported-component-inventory/README.md)
+- [Project 11 — Android Backup Configuration Review](beginner/11-android-backup-configuration-review/README.md)
+- [Project 12 — Cleartext Traffic Configuration Review](beginner/12-cleartext-traffic-configuration-review/README.md)
+- [Project 13 — Network Security Config Review](beginner/13-network-security-config-review/README.md)
+- [Project 14 — Application Signature and Certificate Review](beginner/14-application-signature-and-certificate-review/README.md)
+- [Project 15 — Basic Mobile Traffic Interception](beginner/15-basic-mobile-traffic-interception/README.md)

@@ -12,7 +12,7 @@ A practical, progressive collection of 50 Android mobile application security te
 
 ## Project walkthrough format
 
-Every project contains a project-specific walkthrough with prerequisites, lab setup, commands, actions, expected observations, analysis, remediation, two embedded simulated tool screenshots (test execution and result review), evidence guidance, and a report template.
+Every project contains a project-specific walkthrough with prerequisites, lab setup, commands, actions, expected observations, analysis, remediation, three embedded simulated tool screenshots (lab setup, test execution, and result review), evidence guidance, and retest criteria.
 
 Screenshots illustrate realistic-looking tool workflows but do not claim that a tool was actually run or that a real vulnerability was found.
 
@@ -33,6 +33,8 @@ Use an isolated Android emulator or dedicated test device, Android Studio Emulat
 - `beginner/` — Projects 01–15
 - `intermediate/` — Projects 16–35
 - `advanced/` — Projects 36–50
-- `_assets/` — Shared screenshot styling and visual assets
+- `PROJECT_INDEX.md` — all 50 linked walkthroughs
+- each project folder's `screenshots/` — three project-specific simulated SVG illustrations
+- `_assets/` — shared visual assets
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) and [REPORT_TEMPLATE.md](REPORT_TEMPLATE.md).
+See [PROJECT_INDEX.md](PROJECT_INDEX.md), [CONTRIBUTING.md](CONTRIBUTING.md), and [REPORT_TEMPLATE.md](REPORT_TEMPLATE.md).

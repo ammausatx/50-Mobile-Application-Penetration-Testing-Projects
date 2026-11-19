@@ -1,0 +1,17 @@
+# Advanced Mobile Application Security Projects
+
+- [Project 36 — Android Native Library and JNI Security Review](advanced/36-android-native-library-and-jni-security-review/README.md)
+- [Project 37 — Android Backup and Cloud Synchronization Exposure](advanced/37-android-backup-and-cloud-synchronization-exposure/README.md)
+- [Project 38 — Sensitive Data in Android Logs and Crash Reports](advanced/38-sensitive-data-in-android-logs-and-crash-reports/README.md)
+- [Project 39 — Android Screenshot and Recent-Task Privacy Assessment](advanced/39-android-screenshot-and-recent-task-privacy-assessment/README.md)
+- [Project 40 — Android Clipboard and Keyboard Data Leakage Review](advanced/40-android-clipboard-and-keyboard-data-leakage-review/README.md)
+- [Project 41 — Android Intent Redirection and PendingIntent Security](advanced/41-android-intent-redirection-and-pendingintent-security/README.md)
+- [Project 42 — APK Repackaging and Application Signature Validation](advanced/42-apk-repackaging-and-application-signature-validation/README.md)
+- [Project 43 — Android Obfuscation and Reverse Engineering Assessment](advanced/43-android-obfuscation-and-reverse-engineering-assessment/README.md)
+- [Project 44 — Mobile Cryptographic Protocol and Key Lifecycle Assessment](advanced/44-mobile-cryptographic-protocol-and-key-lifecycle-assessment/README.md)
+- [Project 45 — Android Component Fuzzing in an Isolated Emulator](advanced/45-android-component-fuzzing-in-an-isolated-emulator/README.md)
+- [Project 46 — Mobile CI/CD Build and Release Pipeline Security](advanced/46-mobile-ci-cd-build-and-release-pipeline-security/README.md)
+- [Project 47 — Mobile Third-Party SDK and Software Supply Chain Assessment](advanced/47-mobile-third-party-sdk-and-software-supply-chain-assessment/README.md)
+- [Project 48 — Mobile Application Threat Modeling and Attack Surface Analysis](advanced/48-mobile-application-threat-modeling-and-attack-surface-analysis/README.md)
+- [Project 49 — End-to-End Android Mobile Application Penetration Test](advanced/49-end-to-end-android-mobile-application-penetration-test/README.md)
+- [Project 50 — Mobile Security Assessment Report and Remediation Retest Capstone](advanced/50-mobile-security-assessment-report-and-remediation-retest-capstone/README.md)
